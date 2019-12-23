@@ -1,3 +1,4 @@
+
 // Type of ViewMatrix - 4x4->16 item array, its 64 byte, because of floats 4byte
 // ViewMatrix değişken tipi. 4x4->16 elemanlı array. 64 byte boyutunda, çünkü float değerler 4 byte
 struct ViewMatrix_t{
@@ -22,8 +23,8 @@ Vector3 WorldToScreen(Vector3 pos){
 	_x *= inv_w;
 	_y *= inv_w;
 
-	int width = (int)(g_pOverlay->overlay_rect.right - g_pOverlay->overlay_rect.left);
-	int height = (int)(g_pOverlay->overlay_rect.bottom - g_pOverlay->overlay_rect.top);
+	int width = (int)(g_pOverlay->overlay_rect.right - g_pOverlay->overlay_rect.left); // width of overlay window
+	int height = (int)(g_pOverlay->overlay_rect.bottom - g_pOverlay->overlay_rect.top); // height of overlay window
 
 	result.x = width * .5f;
 	result.y = height * .5f;
