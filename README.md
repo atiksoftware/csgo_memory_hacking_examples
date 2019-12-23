@@ -22,7 +22,7 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
   - [Create DirectX Device - DirectX sürücüsü oluşturma](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Create_A_DirectX_Device.cpp)
   - Load DirectX sprites/textures - Directx sprite/kaplama yükleme
   - Load DirectX fonts - DirectX font yükleme
-  - Offset finder (Hazedumper) - Offset bulucu
+  - [Offset finder (Hazedumper) - Offset bulucu](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/hazedumper)
   - [World To Screen - 3D point to 2D point](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/World_To_Screen.cpp)
   - ViewMatrix
   - EntityList Players
@@ -39,11 +39,12 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
     - Player Model Name
     - Player Account ID
   - Entity Items
-    - Item Class Id
+    - [Item Class Id](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Entity_Item_Class_ID.cpp)
   - Aim
     - Find best target - En uygun hedefi bul
     - Move to target point - Hedefe doğru ilerle
-  - Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma
+  - [CSGO Fonts - Its fonts used in csgo as weapon icons and player name fonts - csgo da kullanılan silah iconları ve isim fontları](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_fonts)
+  - [Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_icons_and_psd)
   
 
 
