@@ -7,6 +7,8 @@ Hi dear visitor. Its not hacking app or shared app. It just example codes pool. 
 Merhaba değerli ziyaretçi. Bu bir hack uygulaması yada yayınlanmış uygulama değildir. Sadece örnek kodlar havuzudur. csgo memory hacking konusunda bildiklerim ve tecrübelerim hakkında örnek kodları buraya koyacağım. Bunu yapma amacım, unutursam tekrar hatırlamak için ve birinin işine yaracak olursa bakabilsin diye.
 
 # Whats Subjects ? - Konular Neler ?
+I will add the subjects step by step. if you not see a any code here about a subject like bottom lines, its mean i not yet add this codes and i will add soon.
+Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek kod göremiyorsanız, bunun anlamı dahaden eklememişimdir ve en kısa sürede ekleyeceğim.
 
   - Create a Overlay Window - Overlay Pencere Oluşturma
   - Create DirectX Device - DirectX sürücüsü oluşturma
@@ -35,3 +37,12 @@ Merhaba değerli ziyaretçi. Bu bir hack uygulaması yada yayınlanmış uygulam
     - Move to target point - Hedefe doğru ilerle
   - Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma
   
+
+
+
+
+## License 
+MIT
+
+
+**Amiral Router!**
