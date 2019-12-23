@@ -1,4 +1,5 @@
-# CSGO Fonts
+# Counter-Strike: Global Offensive Fonts, CSGO Weapons Icons, Player HUD Name Fonts
+Its fonts used in csgo as weapon icons and player name fonts
 
 ### boxrocket.ttf
 ![CSGO ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/csgo_memory_hacking_examples/master/csgo_fonts/boxrocket.jpg)
