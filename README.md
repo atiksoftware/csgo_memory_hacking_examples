@@ -1,5 +1,5 @@
 # CS GO Memory Hacking, Code Examples ![COUNTER](https://www.cutercounter.com/hits.php?id=hevxddxkx&nd=6&style=23)  
-CsGO Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.
+Counter Strike: Global Offensive Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.
 
 
 ![CSGO ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/csgo_memory_hacking_examples/master/example_main.jpg)
