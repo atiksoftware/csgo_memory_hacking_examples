@@ -1,4 +1,4 @@
-int ReadActiveWeaponId(){
+int GetPlayerActiveWeaponId(){
 	int wi1;
 	g_pEsp->ReadBytes((LPCVOID*)(entityPoint + g_pEsp->m_hActiveWeapon),4, &wi1); 
 	wi1 &= 0xFFFF;
