@@ -1,5 +1,13 @@
 # CS GO Memory Hacking, Code Examples
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fcsgo_memory_hacking_examples)  
+[![GitHub](https://img.shields.io/badge/Author-Amiral%20Router-blue)]()
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Fcsgo_memory_hacking_examples)]()
+[![GitHub stars](https://img.shields.io/github/stars/atiksoftware/csgo_memory_hacking_examples?color=brightgreen)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/atiksoftware/csgo_memory_hacking_examples?color=brightgreen)]()
+[![GitHub issues](https://img.shields.io/github/issues/atiksoftware/csgo_memory_hacking_examples?color=blue)]()
+[![GitHub license](https://img.shields.io/github/license/atiksoftware/csgo_memory_hacking_examples)]()
+[![GitHub commit](https://img.shields.io/github/last-commit/atiksoftware/csgo_memory_hacking_examples/develop?color=blueviolet)]()
+
+
 Counter Strike: Global Offensive Memory Hacking C++ code examples. Ex: Read HP,Name,Coord,Bones,Weapons,items etc.
 [![CSGO ESP EXAMPLE SCREENSHOT](https://raw.githubusercontent.com/atiksoftware/csgo_memory_hacking_examples/master/example_video.jpg)](https://www.youtube.com/watch?v=eQuaVFGIzvo)
 
