@@ -34,16 +34,27 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
     - [Player Distance](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Distance.cpp)
     - Player Distance to Crosshair
     - [Player Active Weapon ID](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Active_Weapon_ID.cpp)
+    - Player Weapons Icons
+    - Player Money
+    - Player Is Defusing
+    - Player Has Defuse Kit
     - [Player Is Scoped](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Is_Scoped.cpp)
     - Player Model Name
     - Player Account ID
+    - Player calculate scale by distance
   - Entity Items
     - [Item Class Id](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Entity_Item_Class_ID.cpp)
+    - Get C4 Planted
+    - Get C4 Time Cooldown
+    - Get Useable Items on Map (5 and 10 class ids)
+    - Weapon List file by id and class id and names
   - Aim
     - Find best target - En uygun hedefi bul
     - Move to target point - Hedefe doğru ilerle
   - [CSGO Fonts - Its fonts used in csgo as weapon icons and player name fonts - csgo da kullanılan silah iconları ve isim fontları](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_fonts)
   - [Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_icons_and_psd)
+  - Weapons Icons Illistation
+  
   
 
 
