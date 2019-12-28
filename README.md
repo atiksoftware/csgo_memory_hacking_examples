@@ -62,7 +62,7 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
     - [Move to target point - Hedefe doğru ilerle](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Aim_Move_To_Target_Point.cpp)
   - [CSGO Fonts - Its fonts used in csgo as weapon icons and player name fonts - csgo da kullanılan silah iconları ve isim fontları](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_fonts)
   - [Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_icons_and_psd)
-  - [Weapons Icons Illistation](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_weapon_icons)
+  - [Weapons Icons illustrator](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_weapon_icons)
   
   
 ---
