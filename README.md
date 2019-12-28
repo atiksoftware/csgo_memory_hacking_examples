@@ -28,9 +28,11 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
   - [Create DirectX Device - DirectX sürücüsü oluşturma](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Create_A_DirectX_Device.cpp)
   - Load DirectX sprites/textures - Directx sprite/kaplama yükleme
   - Load DirectX fonts - DirectX font yükleme
+  - [SFML Create Overlay Window with SFML Library](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/examples/SFML)
+  - [SFML Draw Text String Custom Font File With SFML Library](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/SFML/Draw_Text_String_Custom_Font_File_With_SFML_Library.md)
   - [Offset finder (Hazedumper) - Offset bulucu](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/hazedumper)
   - [World To Screen - 3D point to 2D point](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/World_To_Screen.cpp)
-  - ViewMatrix
+  - [ViewMatrix](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_View_Matrix.cpp)
   - EntityList Players
     - [Player Team](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Team.cpp)
     - [Player Name](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Name.cpp)
@@ -39,36 +41,31 @@ Bu başlıkları adım adım ekleyeceğim. Eğer kunulardan biri ile ilgi örnek
     - [Player Origin](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Origin.cpp)
     - [Player Bones](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Bone_Coord.cpp)
     - [Player Distance](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Distance.cpp)
-    - Player Distance to Crosshair
+    - [Player Distance to Crosshair](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Distance_To_Crosshair.cpp)
     - [Player Active Weapon ID](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Active_Weapon_ID.cpp)
-    - Player Weapons Icons
-    - Player Money
-    - Player Is Defusing
-    - Player Has Defuse Kit
+    - [Player Weapons](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Weapons.cpp)
+    - [Player Money](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Money.cpp)
+    - [Player Is Defusing](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Is_Defusing.cpp)
+    - [Player Has Defuse Kit](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Has_Defuser.cpp)
     - [Player Is Scoped](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Is_Scoped.cpp)
     - Player Model Name
     - Player Account ID
-    - Player calculate scale by distance
+    - [Player calculated scale by distance](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Player_Calculated_Scale_By_Distance.cpp)
   - Entity Items
     - [Item Class Id](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_Entity_Item_Class_ID.cpp)
-    - Get C4 Planted
-    - Get C4 Time Cooldown
+    - [Get C4 Planted](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_C4_Is_Planted.cpp)
+    - [Get C4 Time Count Down](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Get_C4_Time_Cooldown.cpp)
     - Get Useable Items on Map (5 and 10 class ids)
-    - Weapon List file by id and class id and names
+    - [Weapon List file by id and class id and names](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/csgo_weapon_icons/weapons.ini)
   - Aim
-    - Find best target - En uygun hedefi bul
-    - Move to target point - Hedefe doğru ilerle
+    - [Find best target - En uygun hedefi bul](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Aim_Find_Best_Target.cpp)
+    - [Move to target point - Hedefe doğru ilerle](https://github.com/atiksoftware/csgo_memory_hacking_examples/blob/master/examples/Aim_Move_To_Target_Point.cpp)
   - [CSGO Fonts - Its fonts used in csgo as weapon icons and player name fonts - csgo da kullanılan silah iconları ve isim fontları](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_fonts)
   - [Photoshop set layer style and export layers with Javascript - Photoshop Javascript ile katman stili tanımlama ve dışarı aktarma](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_icons_and_psd)
-  - Weapons Icons Illistation
+  - [Weapons Icons Illistation](https://github.com/atiksoftware/csgo_memory_hacking_examples/tree/master/csgo_weapon_icons)
   
   
+---
 
-
-
-
-## License 
-MIT
-
-
+#### If you like this document, you can give a star. Thank you
 **Amiral Router!**
